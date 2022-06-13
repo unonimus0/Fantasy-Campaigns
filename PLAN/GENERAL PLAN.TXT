@@ -1,1 +1,66 @@
+It will be a fantasy wargame similar to Panzer Campaings.
 
+What will it have?
+
+LORE. A must-have for all games that set in fantasy world, it should have lore.
+It will be in some high fantasy setting, but it won't set in some mediaeval fantasy. Its world should be akin to WW1 or beyond.
+
+Wargame mechanics. Mechanics similar to those which are found in Panzer Campaings can be used. Note that you cannot copy their names. And some of them should be changed in some ways.
+
+Comment on that:
+
+Instead of hard/soft/AA, there should be mêlée/non-gun ranged/gun ranged/magical/ beam magical (think of MC's particle beam)
+
+Stacking limits should definitely be there, since units shall consist of men AND/OR animals, or machines.
+Zone of control will be there with few exceptions.
+Objestives should be there.
+Quality and Morale values should be there, but they don't need to be tied to each other completely.
+Road movement and special rules regarding to road movement.
+Day and night cycle.
+Disrupted and broken units (name should be changed)
+
+
+Should railways be there? I am not sure.
+
+Some amphibious units, that are creatures that can go both water and land easily (OK, maybe they might be slower on land.)
+Naval units (both ships and sea creatures. Sea creatures might be magical)
+Mountain units (Dwarfs?)
+
+
+Partisans might be unnecessary, but adding deception units with some changes can be interesting.
+
+Irregular units (Orcs?)
+
+Commandos (Special human and elf and dwarf forces?)
+On foot units (for units that ride huge animals. Tanks shouldn't be there, to be honest.), animal death (instead of vehicle breakdown)
+
+Rubble (by indirect fire and direct fire and mêlée)
+Obstacles, booby trap fields.
+Civilians (Should orcs have civilians?)
+Bridges ('natural' and engineer bridges. Should orcs be able to build bridges?)
+Ferries (rare, and should have a capacity in terms of men, should be changable by individual ferry)
+Fixed and immobile units.
+Reinforcement and withdrawals.
+Reconnaissance.
+Digging-in and fortifications (up to superfortresses)
+Indirect firing. Artillery should be limited to direct firing, MAGICIANS should do indirect firing. (Magician units should be indirect fire artillery+HQ units.)
+Mechanical unit effectiveness.
+Magician vs magician should be more deadly than magician vs infantry/musketeers.
+Magicians should have clairvoyance, should be able to see behind the front with a random factor.
+Assaults should be deadly.
+Engineer units (with more limited capability, no mining, maybe adding booby traps)
+
+Instead of planes, there should be DRAGONS. Reconnaissance and fire-breathing dragons.
+
+Types of HQs. Magician HQ (should be far from front), Ranged HQ (A bit nearer), Mêlée HQ (adjacent to front), they should both attack and command.
+
+Fatigue.
+
+Supply (Virtual dragons and explicit dragons [without cars xD]). Magic should be a resource just like provisions.
+
+Environment.
+
+Optional (or advanced?) rules.
+Parameter data.
+
+SHOULD BE MORE MODDABLE.
